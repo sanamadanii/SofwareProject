@@ -262,7 +262,7 @@ public class main{
         main M=new main();
 
         Scanner input = new Scanner(System.in);
-        System.out.println("hiii");
+
 
         while(true) {
             System.out.println("Enter your type...");
